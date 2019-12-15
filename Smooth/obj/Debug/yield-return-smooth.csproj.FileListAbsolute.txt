@@ -1,0 +1,9 @@
+G:\Программирование\С#\Smooth.exercise\bin\Debug\yield.exe.config
+G:\Программирование\С#\Smooth.exercise\bin\Debug\yield.exe
+G:\Программирование\С#\Smooth.exercise\bin\Debug\yield.pdb
+G:\Программирование\С#\Smooth.exercise\bin\Debug\nunit.framework.dll
+G:\Программирование\С#\Smooth.exercise\bin\Debug\ZedGraph.dll
+G:\Программирование\С#\Smooth.exercise\obj\Debug\yield-return-smooth.csprojAssemblyReference.cache
+G:\Программирование\С#\Smooth.exercise\obj\Debug\yield-return-smooth.csproj.CopyComplete
+G:\Программирование\С#\Smooth.exercise\obj\Debug\yield.exe
+G:\Программирование\С#\Smooth.exercise\obj\Debug\yield.pdb
